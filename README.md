@@ -5,3 +5,5 @@ The following are machine learning models made to practice and explore various m
 **Titanic - Machine Learning from Disaster** : Logistic Regression
 
 **Housing Prices Regression**: Linear Regression using sklearn
+
+**MNIST Digit Recgonizer**: Neural Network using TensorFlow
