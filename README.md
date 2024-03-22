@@ -12,5 +12,5 @@ https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/
 https://www.kaggle.com/competitions/digit-recognizer/overview
 (Train/test input data too big to store in github)
 
-**Steel Plate Defect Prediction**: Multilabel Neural Network using TensorFlow, 
+**Steel Plate Defect Prediction**: Multilabel Neural Network using TensorFlow with Feature Engineering, 
 https://www.kaggle.com/competitions/playground-series-s4e3/overview
